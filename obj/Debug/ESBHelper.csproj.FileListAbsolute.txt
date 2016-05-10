@@ -1,0 +1,8 @@
+C:\00MyProject\DayDayUpReal\DayDayUpReal\00MyStudy\01Src\03Mysoft\MySoft\ESBHelper\bin\ESBHelper.dll.config
+C:\00MyProject\DayDayUpReal\DayDayUpReal\00MyStudy\01Src\03Mysoft\MySoft\ESBHelper\bin\ESBHelper.dll
+C:\00MyProject\DayDayUpReal\DayDayUpReal\00MyStudy\01Src\03Mysoft\MySoft\ESBHelper\bin\ESBHelper.pdb
+C:\00MyProject\DayDayUpReal\DayDayUpReal\00MyStudy\01Src\03Mysoft\MySoft\ESBHelper\bin\MyHelper.dll
+C:\00MyProject\DayDayUpReal\DayDayUpReal\00MyStudy\01Src\03Mysoft\MySoft\ESBHelper\bin\MyHelper.pdb
+C:\00MyProject\DayDayUpReal\DayDayUpReal\00MyStudy\01Src\03Mysoft\MySoft\ESBHelper\obj\Debug\ESBHelper.csprojResolveAssemblyReference.cache
+C:\00MyProject\DayDayUpReal\DayDayUpReal\00MyStudy\01Src\03Mysoft\MySoft\ESBHelper\obj\Debug\ESBHelper.dll
+C:\00MyProject\DayDayUpReal\DayDayUpReal\00MyStudy\01Src\03Mysoft\MySoft\ESBHelper\obj\Debug\ESBHelper.pdb
